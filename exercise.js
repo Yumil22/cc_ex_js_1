@@ -9,10 +9,10 @@
 
 
 /** DO   CHANGE THE FUNCTION NAME **/
-const cToF = (c) => {
+function cToF (c) {
     /* Only make changes below this comment */
-    
-
+    var F = c*9/5 + 32
+    return F;
     /* Only make changes below this comment */
 }
 
